@@ -2,9 +2,9 @@
 
 I've built backends from scratch for a few small projects and had to go back over notes on how I'd done it previously. Which is all fine and good, that's antithetical to coding! We code to eliminate redundant work.
 
-So this is a pretty bare bones Node.js-Express.js backend that need some extra love to make it an app.
+So this is a pretty bare bones Node.js-Express.js backend that need some extra love to make it an app. Theres a PostgresQL database templated, but feel free to use whatever you like!
 
-Procfile included for Heroku deployment.
+`Procfile` included for Heroku deployment.
 
 ## How to get started
 1.  Clone this repository and `cd` into it
@@ -14,4 +14,4 @@ Procfile included for Heroku deployment.
 
 ## Starting Server
 1. In the terminal: from `backend` folder, type `npm start`.
-2. Server will start on port 5000. 
+2. Server will start on port 5000.
